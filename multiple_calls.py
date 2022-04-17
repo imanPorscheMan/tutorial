@@ -1,10 +1,5 @@
 
-%%writefile multiple_calls.py
-
 def func_a():
-  print("hello world again!")
-
-def func_b():
-  print("this is a second function")
+  print("can this work now?")
 
 func_a()
